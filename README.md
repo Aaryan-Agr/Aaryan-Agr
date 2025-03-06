@@ -1,6 +1,6 @@
 # Hi, I'm Aaryan Agrawal 👋  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aaryan--Agr-181717?style=flat&logo=github)](https://github.com/Aaryan-Agr)
+[![GitHub](https://img.shields.io/badge/GitHub-Aaryan--Agr-181717?style=flat&logo=github)](https://github.com/Aaryan-Agr?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Agrawal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-agrawal01)
 [![Email](https://img.shields.io/badge/Email-aaryan.agr1610%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaryan.agr1610@gmail.com)
 [![Blog](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=flat&logo=code)](#)
@@ -39,13 +39,5 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
  
----
-
-## 📫 Connect With Me  
-
-📧 **Email**: [aaryan.agr1610@gmail.com](mailto:aaryan.agr1610@gmail.com)  
-🔗 **LinkedIn**: [Aaryan Agrawal](https://www.linkedin.com/in/aaryan-agrawal01)  
-💻 **GitHub**: [Aaryan-Agr](https://github.com/Aaryan-Agr)  
-🚀 **Open to Data Science & Analytics roles. Let’s connect!**  
 
 ---
