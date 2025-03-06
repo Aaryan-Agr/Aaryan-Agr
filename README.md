@@ -49,13 +49,3 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 🚀 **Open to Data Science & Analytics roles. Let’s connect!**  
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Agr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan-Agr&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-Agr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
