@@ -33,7 +33,7 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 
 
 ### 🔬 Libraries & Frameworks  
-[![TA](https://img.shields.io/badge/TA-Library-3366CC?style=flat&logo=python&logoColor=white)](https://github.com/bukosabino/ta)
+![TA](https://img.shields.io/badge/TA-Library-3366CC?style=flat&logo=python&logoColor=white) <br>
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
