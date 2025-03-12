@@ -33,11 +33,15 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 
 
 ### 🔬 Libraries & Frameworks  
+[![TA](https://img.shields.io/badge/TA-Library-3366CC?style=flat&logo=python&logoColor=white)](https://github.com/bukosabino/ta)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+[![yfinance](https://img.shields.io/badge/yFinance-009688?style=flat&logo=python&logoColor=white)](https://github.com/ranaroussi/yfinance)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+[![TA-Lib](https://img.shields.io/badge/TA--Lib-FFB000?style=flat&logo=tradingview&logoColor=white)](https://github.com/mrjbq7/ta-lib)  
+
  
 
 ---
