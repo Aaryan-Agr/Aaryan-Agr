@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHubRepo-Aaryan--Agr-181717?style=flat&logo=github)](https://github.com/Aaryan-Agr?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Agrawal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-agrawal01)
 [![Email](https://img.shields.io/badge/Email-aaryan.agr1610%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaryan.agr1610@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-blue?style=flat&logo=code)](#)
+[![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-blue?style=flat&logo=code)](https://medium.com/@aaryan.agr1610)
 
 ## 🚀 About Me  
 
