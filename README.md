@@ -71,4 +71,24 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 ![Urban Studies](https://img.shields.io/badge/Urban%20Studies-8E44AD?style=flat-square&logo=citymapper)
 ![Social Impact Analysis](https://img.shields.io/badge/Social%20Impact%20Analysis-43A047?style=flat-square&logo=twitter)
 
+### Soft Skills
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-0277BD?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork%20and%20Collaboration-4CAF50?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time%20Management-FF9800?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-8E44AD?style=flat-square)
+![Creativity](https://img.shields.io/badge/Creativity-FFC107?style=flat-square)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-1976D2?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-009688?style=flat-square)
+![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-0A66C2?style=flat-square)
+![Conflict Resolution](https://img.shields.io/badge/Conflict%20Resolution-9C27B0?style=flat-square)
+![Empathy](https://img.shields.io/badge/Empathy-3F51B5?style=flat-square)
+![Decision Making](https://img.shields.io/badge/Decision%20Making-673AB7?style=flat-square)
+![Negotiation](https://img.shields.io/badge/Negotiation-125D98?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-34495E?style=flat-square)
+![Resilience](https://img.shields.io/badge/Resilience-FF5733?style=flat-square)
+
+
+
 
