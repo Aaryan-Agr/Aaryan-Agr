@@ -21,26 +21,46 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
+---
 
 ### ⚡ Platforms & Tools  
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br> 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  <br> 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)<br> 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)<br> 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
 
+---
 
-### 🔬 Libraries & Frameworks  
-![TA](https://img.shields.io/badge/TA-Library-3366CC?style=flat&logo=python&logoColor=white) <br>
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-[![yfinance](https://img.shields.io/badge/yFinance-009688?style=flat&logo=python&logoColor=white)](https://github.com/ranaroussi/yfinance)  
+### 🤖 AI & Machine Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+---
+
+### 📊 Data Visualization  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
+
+---
+
+### 📂 Data Management & Processing  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
+
+---
+
+### 💰 Finance & Trading  
+![yfinance](https://img.shields.io/badge/yFinance-009688?style=flat&logo=python&logoColor=white)  
+![TA](https://img.shields.io/badge/TA-Library-3366CC?style=flat&logo=python&logoColor=white)  
 [![TA-Lib](https://img.shields.io/badge/TA--Lib-FFB000?style=flat&logo=tradingview&logoColor=white)](https://github.com/mrjbq7/ta-lib)  
+
 
  
 
