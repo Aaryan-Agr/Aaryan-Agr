@@ -1,67 +1,22 @@
 # Hi, I'm Aaryan Agrawal 👋  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aaryan--Agr-181717?style=flat&logo=github)](https://github.com/Aaryan-Agr?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHubRepo-Aaryan--Agr-181717?style=flat&logo=github)](https://github.com/Aaryan-Agr?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Agrawal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-agrawal01)
 [![Email](https://img.shields.io/badge/Email-aaryan.agr1610%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaryan.agr1610@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-blue?style=flat&logo=code)](#)
 
 ## 🚀 About Me  
+
+
 I am a **Data Science student at Wilfrid Laurier University**, passionate about leveraging **AI, Machine Learning, and Data Analytics** to drive insights and innovation. My interests lie at the intersection of **consulting, finance, and technology**, where I use data-driven approaches to optimize decision-making.  
 
 🔍 I'm actively looking for **Data Science / Data Analyst roles** where I can apply my analytical skills and technical expertise.  
 
----
 
 ## 🛠️ Skills & Expertise  
 
-### 🚀 Programming Languages  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
----
-
-### ⚡ Platforms & Tools  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-
----
-
-### 🤖 AI & Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-
----
-
-### 📊 Data Visualization  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
-
----
-
-### 📂 Data Management & Processing  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
-
----
-
-### 💰 Finance & Trading  
-![yfinance](https://img.shields.io/badge/yFinance-009688?style=flat&logo=python&logoColor=white)  
-![TA](https://img.shields.io/badge/TA-Library-3366CC?style=flat&logo=python&logoColor=white)  
-[![TA-Lib](https://img.shields.io/badge/TA--Lib-FFB000?style=flat&logo=tradingview&logoColor=white)](https://github.com/mrjbq7/ta-lib)  
-
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite)  <br>![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![SAP Analytics Cloud](https://img.shields.io/badge/-SAP%20Analytics%20Cloud-003366?style=flat-square&logo=sap) <br> ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks) ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat-square&logo=microsoft-access) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat-square&logo=microsoft-power-automate)<br> ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)![Replit](https://img.shields.io/badge/-Replit-6676F5?style=flat-square&logo=replit)![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)<br> 
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?style=flat-square&logo=python) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark) ![NLTK](https://img.shields.io/badge/-NLTK-005C5C?style=flat-square&logo=nltk) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-61C1F1?style=flat-square&logo=python) <br> ![ggplot2](https://img.shields.io/badge/-ggplot2-ED6A5A?style=flat-square&logo=ggplot2) ![dplyr](https://img.shields.io/badge/-dplyr-9A00D8?style=flat-square&logo=r) ![caret](https://img.shields.io/badge/-caret-808080?style=flat-square&logo=r) ![randomForest](https://img.shields.io/badge/-randomForest-008080?style=flat-square&logo=r) ![xgboost](https://img.shields.io/badge/-xgboost-3E9F44?style=flat-square&logo=xgboost) ![e1071](https://img.shields.io/badge/-e1071-0065A4?style=flat-square&logo=r) ![PCA](https://img.shields.io/badge/-PCA-FA9B00?style=flat-square&logo=r) ![lubridate](https://img.shields.io/badge/-lubridate-FF6A13?style=flat-square&logo=r) ![shiny](https://img.shields.io/badge/-shiny-2C3E50?style=flat-square&logo=r) ![forecast](https://img.shields.io/badge/-forecast-3E9F44?style=flat-square&logo=r) ![plotly](https://img.shields.io/badge/-plotly-3C99E1?style=flat-square&logo=plotly) ![lmtest](https://img.shields.io/badge/-lmtest-FF1C1C?style=flat-square&logo=r) ![MASS](https://img.shields.io/badge/-MASS-32CD32?style=flat-square&logo=r)<br>![yfinance](https://img.shields.io/badge/-yFinance-009688?style=flat-square&logo=python) [![TA-Lib](https://img.shields.io/badge/TA--Lib-FFB000?style=flat-square&logo=tradingview)](https://github.com/mrjbq7/ta-lib)  
 
  
 
----
