@@ -90,7 +90,5 @@ I am a **Data Science student at Wilfrid Laurier University**, passionate about 
 ![Resilience](https://img.shields.io/badge/Resilience-FF5733?style=flat-square)
 
 
-![Profile Views](https://github-readme-stats.vercel.app/api?username=Aaryan-Agr&show_icons=true&theme=tokyonight)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaryan-Agr&color=blue)
 
