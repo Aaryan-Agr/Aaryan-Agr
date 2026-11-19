@@ -25,7 +25,7 @@ I study Data Science at **Wilfrid Laurier University** and I'm completing the **
 
 ## 🛠️ Toolkit
 
-**Languages:** Python · SQL · R · Java
-**AI & ML:** Generative AI / RAG · scikit-learn · PyTorch · TensorFlow
-**Data & Cloud:** AWS · Databricks · PySpark · PostgreSQL
-**Business & BI:** Power BI · Tableau · Excel · SAP Analytics Cloud · Power Automate
+- **Languages:** Python · SQL · R · Java
+- **AI & ML:** Generative AI / RAG · scikit-learn · PyTorch · TensorFlow
+- **Data & Cloud:** AWS · Databricks · PySpark · PostgreSQL
+- **Business & BI:** Power BI · Tableau · Excel · SAP Analytics Cloud · Power Automate
